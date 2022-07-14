@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 3
+title: 用 golang 复现简易版比特币
 description: a project that redirects to another website
 img: assets/img/7.jpg
 redirect: https://unsplash.com

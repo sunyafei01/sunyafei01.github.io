@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: 复现 VGG-16
+description: 用 VGG-16 完成猫狗分类任务
 img: assets/img/12.jpg
 importance: 1
 category: work

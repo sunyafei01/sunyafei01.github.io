@@ -13,7 +13,7 @@
   contents:
     - title: Undergraduate
       institution: University of Science and Technology, Hefei, China
-      year: 2019 - 至今
+      year: 2019 - now
       description:
         - 网络空间安全学院
         
@@ -27,12 +27,17 @@
       
     - title: 心理委员
       institution: 2019级网安1班
-      year: 2021 - 至今
+      year: 2021 - now
 
     - title: 宣传部副部长
       institution: 中国科大职业发展协会
-      year: 2021 - 至今
+      year: 2021 - now
       description: 负责公众号运营，参与策划了多场就业讲座、求职经验分享会
+    
+    - title: <a href="https://ustc-story.github.io/">科大普通人类实录</a>
+      year: 2021 - now
+      description: 记录聚光灯外的科大生活
+
 
 - title: Honors and Awards
   type: time_table

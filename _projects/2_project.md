@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: 用 LSTM 预测股价
+description: 结果看起来十分完美，可是...
 img: assets/img/3.jpg
 importance: 2
 category: work
