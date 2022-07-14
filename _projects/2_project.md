@@ -2,7 +2,7 @@
 layout: page
 title: 用 LSTM 预测股价
 description: 结果看起来十分完美，可是...
-img: assets/img/3.jpg
+img: assets/img/lstm.png
 importance: 2
 category: work
 ---

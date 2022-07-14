@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 用 golang 复现简易版比特币
-description: a project that redirects to another website
+description: blockchain from scratch
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
