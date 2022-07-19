@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /watched/
-title: Watched
-description: Materials for courses you taught. Replace this text with your description.
+title: watched
+description: > 电影发明以后，人的生命至少延长了三倍。 ——《一一》
 nav: true
 nav_order: 4
 ---
