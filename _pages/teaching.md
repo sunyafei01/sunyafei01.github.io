@@ -2,7 +2,7 @@
 layout: page
 permalink: /watched/
 title: watched
-description: > 电影发明以后，人的生命至少延长了三倍。 ——《一一》
+description: “电影发明以后，人的生命至少延长了三倍。” ——《一一》杨德昌
 nav: true
 nav_order: 4
 ---
