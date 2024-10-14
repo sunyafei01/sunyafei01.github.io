@@ -40,7 +40,7 @@ I’m now pursuing a Master’s degree in Computer Science at the University of 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 - *2022*, The Second Prize in National College Student Information Security Contest
 
 # 📖 Educations
@@ -51,5 +51,5 @@ I’m now pursuing a Master’s degree in Computer Science at the University of 
 # 💻 Internships
 - None
 
-# Miscellaneous 
+# 👀 Miscellaneous 
 -  When I am not doing research, I love frisbee🥏, movie🎥 and workout💪.
