@@ -41,10 +41,15 @@ I’m now pursuing a Master’s degree in Computer Science at the University of 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-
+- *2022*, The Second Prize in National College Student Information Security Contest
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, University of Science and Technology of China, Master student in the School of Computer Science and Technology.
 - *2019.09 - 2023.06*, University of Science and Technology of China, Bachelor in the School of Cyber Science and Security.
+
+
 # 💻 Internships
 - None
+
+# Miscellaneous 
+-  When I am not doing research, I love frisbee🥏, movie🎥 and workout💪.
