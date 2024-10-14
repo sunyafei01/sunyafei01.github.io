@@ -18,14 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Hardworking and enthusiastic College Student working towards a M.S. in Computer Science.  My research focuses on large language models, network security and cybercrime. Proficient in an assortment of technologies, including Python, C and Linux.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I’m now pursuing a Master’s degree in Computer Science at the University of Science and Technology of China (USTC), under the supervision of Prof. Xianghang Mi. I obtained my Bachelor of Engineering in Information Security from USTC in 2023. My research interests include AI security. I welcome collaboration and discussions via email.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 📝 Publications 
 
@@ -44,11 +41,10 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, University of Science and Technology of China, Master student in the School of Computer Science and Technology.
 - *2019.09 - 2023.06*, University of Science and Technology of China, Bachelor in the School of Cyber Science and Security.
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- None
