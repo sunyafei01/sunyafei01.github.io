@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I’m now pursuing a Master’s degree in Computer Science at the University of Science and Technology of China (USTC), under the supervision of Prof. Xianghang Mi. I obtained my Bachelor of Engineering in Information Security from USTC in 2023. My research interests include AI security. I welcome collaboration and discussions via email.
+I’m now pursuing a Master’s degree in Computer Science at the University of Science and Technology of China (USTC), under the supervision of Prof. Xianghang Mi. I obtained my Bachelor of Engineering in Information Security from USTC in 2023. My research interests include AI Security and Human-centric Security. I welcome collaboration and discussions via email.
 
 
 # 🔥 News
